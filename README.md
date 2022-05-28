@@ -6,8 +6,8 @@ In this application, i try the use ListView and by using both StatefulWidget and
 ## Screenshot
 
 ### stateless
-![](./capture/statelessAndroid.png)
-![](./capture/statelessIOS.png)
+![](./capture/stateLessAndroid.png)
+![](./capture/stateLessIOS.png)
 ### stateFul
-![](./capture/stateFulAndroid.png)
+![](./capture/stateFulAndriod.png)
 ![](./capture/stateFulIOS.png)
